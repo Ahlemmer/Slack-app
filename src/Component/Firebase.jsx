@@ -5,12 +5,12 @@ import {getAuth, GoogleAuthProvider} from 'firebase/auth'
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyARiuwttzePhJwMeoHcQ1YU546RZBQXgp8",
-  authDomain: "slack-clone-8b8e9.firebaseapp.com",
-  projectId: "slack-clone-8b8e9",
-  storageBucket: "slack-clone-8b8e9.appspot.com",
-  messagingSenderId: "335580141676",
-  appId: "1:335580141676:web:cfe2a337b6ddce4287e049"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 // Initialize Firebase
